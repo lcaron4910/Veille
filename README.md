@@ -19,7 +19,7 @@ IL permet de repertorier par categorie c' est technologie et de s'abonner a des 
 ![CaptureTicket3.png](http://image.noelshack.com/fichiers/2019/15/1/1554753762-capture5.png)
 
 
-On peut directement visualiser les nouveaux Flux et les ajouter en favoris afin de grader une trace.
+On peut directement visualiser les nouveaux Flux et les ajouter en favoris afin de garder une trace.
 
 ![CaptureTicket2.png](http://image.noelshack.com/fichiers/2019/15/1/1554753767-capture8.png)
 
